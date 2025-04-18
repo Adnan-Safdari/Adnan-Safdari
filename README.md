@@ -1,21 +1,51 @@
-<h1 align="center">Hi 👋, I'm Adnan Safdari</h1>
-<h3 align="center">A student passionate about Cybersecurity and Backend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnan-safdari" alt="adnan-safdari" /></a> </p>
-
-- 🌱 I’m currently learning **Linux, SQL, OSINT**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Adnan-Safdari?tab=repositories](https://github.com/Adnan-Safdari?tab=repositories)
-
-- 💬 Ask me about **python, git, github, linux, Sqlite, discord.py**
-
-- 📫 How to reach me **adnan.dev.business@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<p align="center">
+  💻 Programmer | 🛡️ Cybersecurity Enthusiast | 🎯 CTF Player
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan-safdari&show_icons=true&locale=en&layout=compact" alt="adnan-safdari" /></p>
+### 👨‍💻 About Me
+
+- 💻 I'm passionate about **Cybersecurity**, **Programming**, and **Problem Solving**
+- 🧠 I love solving **Capture The Flag (CTF)** challenges
+- 🔐 Currently exploring offensive security, network analysis, and penetration testing
+- 🧰 Tools I use: `Burp Suite`, `nmap`, `Metasploit`, `John the Ripper`, etc.
+- 🌱 Always learning and expanding my skill set!
+
+---
+
+### 💻 Programming Skills
+
+- Languages:  
+  ![C](https://img.shields.io/badge/C-blue?style=flat&logo=c) 
+  ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java) 
+  ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+- Databases & Tools:  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+### 🚩 CTFs & Challenges
+
+- 🕵️‍♂️ Regularly practice on platforms like:
+  - [TryHackMe](https://tryhackme.com/)
+  - [Hack The Box](https://www.hackthebox.com/)
+  - [OverTheWire](https://overthewire.org/)
+  - [CTFtime](https://ctftime.org/)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adnan-Safdari&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan-Safdari&layout=compact&theme=radical" />
+</p>
+
+---
