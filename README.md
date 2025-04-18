@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm Adnan Safdari</h1>
 <p align="center">
   💻 Programmer | 🛡️ Cybersecurity Enthusiast | 🎯 CTF Player
 </p>
